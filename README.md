@@ -5,7 +5,7 @@
 - I’m currently learning Python, C, JS(JavaScript) and PHP
 - I’m looking to collaborate on any beginner level projects in the above listed languages
 - Certifications : https://tinyurl.com/ewcv8z5h
-- Linktree : linktr.ee/shafinmurani
+- Linktree : https://linktr.ee/shafinmurani
 - Age : 14
 
 # Contact info
