@@ -1,4 +1,4 @@
-# My introduction
+# Introduction
 
 - Hi, I’m Shafin Murani
 - I’m interested in Ethical Hacking/Cyber Security
