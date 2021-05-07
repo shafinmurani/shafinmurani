@@ -6,8 +6,7 @@
 - I’m looking to collaborate on any beginner level projects in the above listed languages
 - Certifications : https://tinyurl.com/ewcv8z5h
 - Linktree : https://linktr.ee/shafinmurani
-- Age : 14
-
+- 
 # Contact info
   - E-mail : shafinmurani9@gmail.com
   - Instagram : @shafin_murani
