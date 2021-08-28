@@ -4,8 +4,8 @@
 - I’m interested in Ethical Hacking/Cyber Security
 - I’m currently learning Python, C, JS(JavaScript) and PHP
 - I’m looking to collaborate on any beginner level projects in the above listed languages
-- Certifications : https://tinyurl.com/ewcv8z5h
-- Linktree : https://linktr.ee/shafinmurani
+- Certifications : https://shafinmurani.github.io/certs
+- Linktree : https://shafinmurani.github.io/contact
 
 # Contact info
   - E-mail : shafinmurani9@gmail.com
