@@ -2,8 +2,7 @@
 
 - Hi, I’m Shafin Murani
 - I’m interested in Ethical Hacking/Cyber Security
-- I’m currently learning Python, C, JS(JavaScript) and PHP
-- I’m looking to collaborate on any beginner level projects in the above listed languages
+- I’m a Full Stack Developer and a Freelancer by profession
 - Certifications : https://shafinmurani.github.io/certs
 - Contact Me : https://shafinmurani.github.io/contact
 
