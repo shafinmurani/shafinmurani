@@ -1,7 +1,7 @@
 Hi 👋 My name is Shafin Murani
 ==============================
 
-Android Developer and Web Developer
+Android and Web Developer
 -----------------------------------
 
 I am a student by day, developer by night. I've always had a knack for building and breaking stuff I believe that is one of the reasons why I am enthusiastic about coding and cyber security
