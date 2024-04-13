@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 My portfolio [shafinmurani.github.io](shafinmurani.github.io)
+- 👨‍💻 My portfolio [https://shafinmurani.github.io](shafinmurani.github.io)
 
 - 📝 I regularly write articles on [https://shafinmurani.medium.com](https://shafinmurani.medium.com)
 
